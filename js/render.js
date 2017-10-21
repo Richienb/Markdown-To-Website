@@ -1,4 +1,3 @@
-
 (function () {
   var file = file || "README.md";
   var reader = new stmd.DocParser();
